@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(open /Users/elorm/Projects/theoceansmall/GraduateIntern/info_web/index.html)"
+    ]
+  }
+}
